@@ -1,0 +1,5 @@
+Algoritmo, Tipo de ordenamiento, Tiempo de ejecucion, Numero de comparaciones, Movimientos/Desplazamientos
+Binary Insertion Sort,DESC,916,7987,500499
+Merge Sort,DESC,19,5044,9976
+Quick Sort,DESC,2582,500499,500499
+Radix Sort,DESC,19,1000,4000

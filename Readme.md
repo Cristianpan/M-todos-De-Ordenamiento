@@ -2,16 +2,16 @@
 
 Elaborado por: 
 
-> Diana Carolina Vázquez Rodríguez
-> Cristian David Pan Zaldivar
+- Diana Carolina Vázquez Rodríguez
+- Cristian David Pan Zaldivar
 
 El presente programa permite al usuario final, ordenar un dataSet.csv, correspondiente a
 1000 canales de youtube con sus datos estadísticos, a través de 4 métodos de ordenamiento: 
 
-> Binary Insertion Sort 
-> Merge Sort
-> Quick Sort
-> Radix Sort
+- Binary Insertion Sort 
+- Merge Sort
+- Quick Sort
+- Radix Sort
 
 El dataSet contiene la información de datos estadísticos de canales de Youtube, cuya información se encuentra
 representada de la siguiente manera: 
